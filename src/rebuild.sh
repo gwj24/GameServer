@@ -1,0 +1,1 @@
+g++ -g -I common/include -I servers/homeserver/include common/object/*.cpp servers/homeserver/main.cpp
